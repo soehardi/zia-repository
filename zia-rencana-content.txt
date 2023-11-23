@@ -3,7 +3,9 @@ RENCANA KONTEN ZIA
 -javascript
   * ES6
   * Framework Javascript
--Struktur Data Dasar
+    ^angular
+    ^react
 -PHP Frameworks
+ ^laravel
 -Interview
 -Vlogs
